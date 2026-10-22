@@ -1,0 +1,17 @@
+{
+  "name": "dobra-elemental",
+  "version": "1.0.0",
+  "description": "Jogo de dobra em primeira pessoa (Água, Terra, Fogo e Ar) com arena online para até 8 jogadores.",
+  "main": "server.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "8.18.0"
+  },
+  "license": "MIT"
+}
