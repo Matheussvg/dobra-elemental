@@ -1,6 +1,8 @@
 # Dobra Elemental
 
-Jogo de dobra em primeira pessoa (Água, Terra, Fogo e Ar) com 28 técnicas inspiradas em *Avatar: A Lenda de Aang*, modo treino contra bonecos e arena online para até 8 jogadores.
+Jogo de dobra (Água, Terra, Fogo e Ar) inspirado em *Avatar: A Lenda de Aang*, em primeira ou terceira pessoa, com modo treino contra bonecos e arena online para até 8 jogadores.
+
+Cada elemento tem a mesma escada de técnicas: três básicas (botão esquerdo, botão direito, E), duas especiais (Q, R) e uma ult (F), mais um movimento (C). A técnica de cada posição causa o mesmo dano em todos os elementos e a recarga vem da categoria; nenhuma técnica cura. O elemento é escolhido ao entrar e só muda depois de ser derrubado. Os valores ficam em `CAT` e `DMG` no início do script de `game.html`.
 
 ## Rodar localmente
 
